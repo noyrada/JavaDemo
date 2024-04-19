@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714cb1ed-b51d-40dc-a1c5-c2da39950713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excersice_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/BinaryToDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/CommercialShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/DateValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/Divisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/Excercise29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/Excercise30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/MillisTODay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoEx/StarsPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListAndString/List_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LottoSystem/Excercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseAStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringHanding/Excercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringHanding/MeteorologistSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrade/projectOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintListInOrder_Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +29,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2ep3hJMsilk96amvvVH8VLZqj5a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,7 +42,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Y3-E2-G25/JAVA/without Study/Excersice_Java/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Y3-E2-G25/JAVA/without Study/Excersice_Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,5 +56,9 @@
       <updated>1712587809777</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
